@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)file:///C:/Users/user/Desktop/HTML/CIE1.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="vieport" content="width=device-width,intial-scale=1.0">
+    <title>My First Web Page</title>
+</head>
+<body style="background-color: red;">
+<marquee direction="left" style="fontsize:150">Hello</marquee>
+<marquee direction="right">Hello</marquee>
+<img src="./CIE1_files/india.webp" width="250" height="250">
+<img src="./CIE1_files/rcb.webp" width="250" height="250"><br>
+<a href="https://www.w3schools.com/">W3schools</a><br>
+<h1 style="color:blue">Namaste</h1>
+<p>This is very<mark>tasty</mark>food</p>
+<p>This is very<del>tasty</del>food</p></body></html>
